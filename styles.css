@@ -496,7 +496,7 @@ a:focus-visible, button:focus-visible{
 .back-to-top{
   position:fixed;
   right:20px;
-  bottom:96px; /* sits above the BotBonnie WebChat launcher so the two never overlap */
+  bottom:24px;
   width:40px;
   height:40px;
   border-radius:50%;
