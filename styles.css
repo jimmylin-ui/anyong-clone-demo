@@ -495,8 +495,8 @@ a:focus-visible, button:focus-visible{
 /* ---------- Back to top ---------- */
 .back-to-top{
   position:fixed;
-  right:20px;
-  bottom:24px;
+  left:20px;
+  bottom:24px; /* kept on the opposite corner from the BotBonnie WebChat launcher, whose reserved hit area covers the whole bottom-right corner even when collapsed */
   width:40px;
   height:40px;
   border-radius:50%;
